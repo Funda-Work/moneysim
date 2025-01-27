@@ -1,2 +1,2 @@
 # moneysim
-Money Goals Netifly Integration
+Moneysim Netifly Integration
